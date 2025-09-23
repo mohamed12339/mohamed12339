@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Magdy
 
-Flutter Developer 
+![Typing Flutter Developer](https://link-to-your-gif.gif)
 
 ## 👨‍💻 About Me  
 
@@ -68,7 +68,7 @@ Bachelor's Degree in Business Information Technology (BIT)
 ## 🌍 Languages  
 
 - Arabic — Native  
-- English — Intermediate / Upper-Intermediate  
+- English — Intermediate  
 
 ---
 
