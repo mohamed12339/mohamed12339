@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Magdy
 
----
+Flutter Developer 
 
 ## 👨‍💻 About Me  
 
