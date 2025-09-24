@@ -15,7 +15,7 @@ Experienced in building production-ready features: payments, maps, real-time cha
 
 ### 🎬 [Movie-Verse](https://github.com/mohamed12339/Movie-Verse)  
 Aug 28, 2025 – Sep 16, 2025  
-Built a movie application using TMDB API allowing users to browse popular & trending movies, view detailed information, manage watchlist & history, and watch trailers.  
+Built a movie application using YTS API allowing users to browse popular & trending movies, view detailed information, manage watchlist & history, and watch trailers.  
 
 ---
 
